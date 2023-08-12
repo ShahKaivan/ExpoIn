@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "651571145377",
+    "project_id": "expoin-4f28f",
+    "storage_bucket": "expoin-4f28f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651571145377:android:8f8aa47559088cc24e5ee0",
+        "android_client_info": {
+          "package_name": "com.devlomers.dm.expo_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651571145377-b3tfeuhf0lf31tm5gjmli6p5rgc7j7bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFcUTlSM5Fh5S4exNt8zPOS620g400Kxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651571145377-b3tfeuhf0lf31tm5gjmli6p5rgc7j7bu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "651571145377-p23d0obhommv36kji52alm6148d3sf5d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.devlomers.dm.expoIn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651571145377:android:6167c44b625de7e84e5ee0",
+        "android_client_info": {
+          "package_name": "com.devlomers.dvm.expo_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651571145377-b3tfeuhf0lf31tm5gjmli6p5rgc7j7bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFcUTlSM5Fh5S4exNt8zPOS620g400Kxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651571145377-b3tfeuhf0lf31tm5gjmli6p5rgc7j7bu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "651571145377-p23d0obhommv36kji52alm6148d3sf5d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.devlomers.dm.expoIn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
